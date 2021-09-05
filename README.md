@@ -8,7 +8,7 @@
 6. Model Deployment
 
 
-## Model Deployment Link:- 
+## Model Deployment Link:- https://model-deployment-yogi.herokuapp.com/
 
 
 
